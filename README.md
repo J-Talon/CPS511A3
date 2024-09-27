@@ -3,3 +3,6 @@ It is a C/C++ program using OpenGL, GLUT and GLEW to create a primitive game eng
 
 The original project can be found here:
 https://github.com/Peter-012/CPS511A3
+
+A working demo of the project can be found here:
+https://www.youtube.com/watch?v=7nhuF90u0dk
